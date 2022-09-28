@@ -1,12 +1,7 @@
-# CISC 3140
-some git practice
+# CISC 3140 class exercises & assignments
 
 ## Brooklyn College
-readme.md file 
 
 
-
-Contents for future lab assignments can be found in ...
-Operating System: Linux(POP OS distro)
 
     
