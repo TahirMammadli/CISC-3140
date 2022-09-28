@@ -1,0 +1,56 @@
+Script started on 2022-09-28 04:54:26-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ mkdir java program lab 1
+[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ ls
+[?2004l[0m[01;34m1[0m     [01;34mlab[0m         [01;34mprogram[0m    script-2022-09-28.log  time-2022-09-28.txt
+[01;34mjava[0m  lab1_part1  readme.md  test.txt
+[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ rm [Kdir java
+[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ ls
+[?2004l[0m[01;34m1[0m    lab1_part1  readme.md              test.txt
+[01;34mlab[0m  [01;34mprogram[0m     script-2022-09-28.log  time-2022-09-28.txt
+[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ mkdir 'java program lab 1'
+[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ ls
+[?2004l [0m[01;34m1[0m                     lab1_part1   script-2022-09-28.log
+[01;34m'java program lab 1'[0m   [01;34mprogram[0m      test.txt
+ [01;34mlab[0m                   readme.md    time-2022-09-28.txt
+[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ cd jaav\[K[K[Kva program lab1 [K[K 1;[K'[1@'
+[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140/java program lab 1[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140/java program lab 1[00m$ ls
+[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140/java program lab 1[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140/java program lab 1[00m$ cd ../../../[K[K[K[K.[K/
+[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ ls
+[?2004l[0m[01;34mCISC-3140[0m  Lab1.java  [01;34mreadings[0m
+[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ cd [K[K[Kmv l[KLab1.jva[K[Kava ^C[?2004l[?2004h[?2004l
+[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ lscd ../../ls[K[Kmv Lab1.java [7m~/Fall 22/CISC 3140/CISC-3140/jav[27m[7ma[27m[7m program lab 1[27m[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C~/Fall 22/CISC 3140/CISC-3140/java program lab 1[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/Fall 22/CISC 3140/CISC-3140/java [1P[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C/Fall 22/CISC 3140/CISC-3140/java p[1P[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[CFall 22/CISC 3140/CISC-3140/java pr[1P[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C Fall 22/CISC 3140/CISC-3140/java p[1@r[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C.Fall 22/CISC 3140/CISC-3140/java [1@p[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C.Fall 22/CISC 3140/CISC-3140/java[1@ [A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/Fall 22/CISC 3140/CISC-3140/jav[1@a[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.Fall 22/CISC 3140/CISC-3140/ja[1@v[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.Fall 22/CISC 3140/CISC-3140/j[1@a[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/Fall 22/CISC 3140/CISC-3140/[1@j[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.Fall 22/CISC 3140/CISC-3140[1@/[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.Fall 22/CISC 3140/CISC-314[1@0[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/Fall 22/CISC 3140/CISC-31[1@4[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lmv: target '1' is not a directory
+[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ mv Lab1.java ../../../Fall 22/CISC 3140/CISC-3140/java program lab 1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'[C[C[C[1@'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'/CISC-3[1@1[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'CISC 3140'/CISC-[1@3[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'2/'CISC 3140'/CISC[1@-[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2/'CISC 3140'/CISC-[1P[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'/'CISC 3140'/CISC[1@-[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'Fall 22'/'CISC 3140'/CIS[1@C[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lmv: cannot move 'Lab1.java' to '../../../Fall 22/CISC 3140/CISC-3140/java program lab 1': No such file or directory
+[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ mv Lab1.java ../../../'Fall 22'/'CISC 3140'/CISC-3140/'java program lab 1'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/../../'Fall 22'/'CISC 3140'/CISC[1P[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C/../../'Fall 22'/'CISC 3140'/CISC-[1P[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C/../../'Fall 22'/'CISC 3140'/CISC-3[1P[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C../../'Fall 22'/'CISC 3140'/CISC-31[1P[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C ../../'Fall 22'/'CISC 3140'/CISC-3[1@1[A]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140[00m$ cd CISC1[K31[K[K-3140
+[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ LS[K[Kls
+[?2004l [0m[01;34m1[0m                     lab1_part1   script-2022-09-28.log
+[01;34m'java program lab 1'[0m   [01;34mprogram[0m      test.txt
+ [01;34mlab[0m                   readme.md    time-2022-09-28.txt
+[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ fir[K[K[Kgit add [K[K[K[K[K[K[K[Krm [Kdir 1 program lab
+[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ ls
+[?2004l[0m[01;34m'java program lab 1'[0m   readme.md               test.txt
+ lab1_part1            script-2022-09-28.log   time-2022-09-28.txt
+[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ cd [K[K[Kgit add java [K[K[K[K[K'java rp[K[Kprogram lab 1 [K [K' la[K[K[K
+[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ git status
+[?2004lOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   java program lab 1/Lab1.java[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mscript-2022-09-28.log[m
+	[31mtime-2022-09-28.txt[m
+
+[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ git [K[K[K[Kkmdir [K[K[K[K[K[Kkmd[K[K[Kmkdir terminal session lab 1'[1@'
+[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ exit
+[?2004lexit
+
+Script done on 2022-09-28 05:05:27-04:00 [COMMAND_EXIT_CODE="0"]
