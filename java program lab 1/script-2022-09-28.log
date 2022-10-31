@@ -1,25 +1,0 @@
-Script started on 2022-09-28 05:28:24-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
-[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ cd[K[Kls
-[?2004l[0m[01;34m'java program lab 1'[0m   script-2022-09-28.log     time-2022-09-28.txt
- lab1_part1           [01;34m'terminal session lab 1'[0m
- readme.md             test.txt
-[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140[00m$ cd java [K[K[K[K[K'java program lab 1'
-[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140/java program lab 1[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140/java program lab 1[00m$ ls
-[?2004lLab1.java
-[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140/java program lab 1[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140/java program lab 1[00m$ e[Kjavac Lab2[K1.jaa[Kva
-[?2004l[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140/java program lab 1[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140/java program lab 1[00m$ jva [K[K[Kav [Ka J[KLab1
-[?2004lEnter the lab #: 
-2
-29 days left until lab 2
-[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140/java program lab 1[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140/java program lab 1[00m$ java Lab1
-[?2004lEnter the lab #: 
-^[[A^[[A^[[B^[[B                3
-55 days left until lab 3
-[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140/java program lab 1[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140/java program lab 1[00m$ java Lab1
-[?2004lEnter the lab #: 
-4
-69 days left until lab 4
-[?2004h]0;tahir@pop-os: ~/Fall 22/CISC 3140/CISC-3140/java program lab 1[01;32mtahir@pop-os[00m:[01;34m~/Fall 22/CISC 3140/CISC-3140/java program lab 1[00m$ exit
-[?2004lexit
-
-Script done on 2022-09-28 05:29:20-04:00 [COMMAND_EXIT_CODE="0"]
